@@ -23,7 +23,7 @@ public class Endereco {
     public Endereco() {
     }
 
-    public Endereço(String rua, String cidade, String cep) {
+    public Endereco(String rua, String cidade, String cep) {
         this.rua = rua;
         this.cidade = cidade;
         this.cep = cep;
